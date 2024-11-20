@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-재밌어 보이면 그냥 한다 모르겠다 내 인생.\
-If it looks fun, just do it. No overthinking-dependencies required.\
-Wenn es Spaß macht, amch es einfac. Grübeln ist überbewertet >3\
+재밌어 보이면 그냥 한다 모르겠다 내 인생. def enjoy_life(): pass\
+If it looks fun, just do it. No overthinking-dependencies required, just pip install fun-dev\
+Wenn es Spaß macht, amch es einfac. Grübeln ist überbewertet >3 try: Spaß except: Nichtsss \
 面白そうなら、とりあえずやっちゃいなよ！深く考えるのは無し --!\
-看起来好玩就直接去做吧，别想太多！\
+觉得有意思就去试试吧，别纠结太多.import antigravity 就是王道
 
 
 
