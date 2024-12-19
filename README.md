@@ -3,8 +3,7 @@
 재밌어 보이면 그냥 한다 모르겠다 내 인생\
 If it looks fun, just do it. No overthinking-dependencies required\
 Wenn es Spaß macht,mach es einfach\
-面白そうなら、とりあえずやっちゃいなよ！深く考えるのは無し --!\
-觉得有意思就去试试吧，别纠结太多.import antigravity 就是王道
+面白そうなら、とりあえずやっちゃいなよ！深く考えるのは無し\
 
 
 
