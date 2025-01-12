@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 재밌어 보이면 그냥 한다 모르겠다 내 인생\
-If it looks fun, just do it. No overthinking-dependencies required\
+If it looks fun, just do it\
 Wenn es Spaß macht,mach es einfach\
 面白そうなら、とりあえずやっちゃいなよ！深く考えるのは無し\
 
